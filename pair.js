@@ -142,34 +142,63 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `Hey there, MALVIN-XD User!* 👋🏻
+                            let desc = `*🔰 ▬▭▬ ✦✧✦ ▬▭▬  🔰*
+         *👑 BILAL-MD 👑*
+   *👑 WHATSAPP BOT 👑*
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬  🔰*
 
-Thanks for using *MALVIN-XD* — your session has been successfully created!
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬  🔰*
+      *👑 PAIRING CODE 👑*
+        *👑 CONNECTED 👑*
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬  🔰*
 
-🔐 *Session ID:* Sent above  
-⚠️ *Keep it safe!* Do NOT share this ID with anyone.
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
+          *👑 SESSION ID 👑*
+            *👑 RECEIVED 👑*
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
 
-——————
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
+            *👑 OWNER 👑*
+              *👑 BILAL 👑*
+*🔰▬▭▬ ✦✧✦ ▬▭▬ 🔰*
 
-*✅ Stay Updated:*  
-Join our official WhatsApp Channel:  
-https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
+           *👑 CONTACT 👑*
+     *👑 +923078071982 👑*
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
 
-*💻 Source Code:*  
-Fork & explore the project on GitHub:  
-https://github.com/XdKing2/MALVIN-XD
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
+    *👑 BILAL-MD REPO 👑👑 github.com/BilalTech05/BILAL-MD 👑*
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
 
-——————
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
+*👑 WHATSAPP CHANNEL 👑* *https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G*
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
 
-> *© Powered by Malvin King*
-Stay cool and hack smart. ✌🏻`;
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
+ *👑 WHATSAPP GROUP 👑https://chat.whatsapp.com/Bjbecj0p5lAFIhCxKLoljs?mode=r_t*
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
+
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
+       *👑 THANKS FOR 👑*
+          *👑 CHOOSING 👑*
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
+
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
+          *👑 BILAL-MD 👑*
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
+
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
+   *👑 URDU LANGUAGE 👑*
+    *👑 WHATSAPP BOT 👑*
+*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴍᴀʟᴠɪɴ-xᴅ",
-thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
-sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
+title: "BILAL-MD",
+thumbnailUrl: "https://i.postimg.cc/7LWBgYMq/bilal.jpg",
+sourceUrl: "https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
