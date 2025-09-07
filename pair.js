@@ -77,63 +77,14 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "BILAL-MD~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `*🔰 ▬▭▬ ✦✧✦ ▬▭▬  🔰*
-         *👑 BILAL-MD 👑*
-   *👑 WHATSAPP BOT 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬  🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬  🔰*
-      *👑 PAIRING CODE 👑*
-        *👑 CONNECTED 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬  🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-          *👑 SESSION ID 👑*
-            *👑 RECEIVED 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-            *👑 OWNER 👑*
-              *👑 BILAL 👑*
-*🔰▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-           *👑 CONTACT 👑*
-     *👑 +923078071982 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-    *👑 BILAL-MD REPO 👑👑 github.com/BilalTech05/BILAL-MD 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-*👑 WHATSAPP CHANNEL 👑* *https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
- *👑 WHATSAPP GROUP 👑https://chat.whatsapp.com/Bjbecj0p5lAFIhCxKLoljs?mode=r_t*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-       *👑 THANKS FOR 👑*
-          *👑 CHOOSING 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-          *👑 BILAL-MD 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-   *👑 URDU LANGUAGE 👑*
-    *👑 WHATSAPP BOT 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰`; 
+                        let desc = `BILAL-MD BOT`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "BILAL-MD",
+title: "ᴍᴀʟᴠɪɴ-xᴅ",
 thumbnailUrl: "https://files.catbox.moe/bqs70b.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G",
+sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -142,63 +93,14 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*🔰 ▬▭▬ ✦✧✦ ▬▭▬  🔰*
-         *👑 BILAL-MD 👑*
-   *👑 WHATSAPP BOT 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬  🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬  🔰*
-      *👑 PAIRING CODE 👑*
-        *👑 CONNECTED 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬  🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-          *👑 SESSION ID 👑*
-            *👑 RECEIVED 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-            *👑 OWNER 👑*
-              *👑 BILAL 👑*
-*🔰▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-           *👑 CONTACT 👑*
-     *👑 +923078071982 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-    *👑 BILAL-MD REPO 👑👑 github.com/BilalTech05/BILAL-MD 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-*👑 WHATSAPP CHANNEL 👑* *https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
- *👑 WHATSAPP GROUP 👑https://chat.whatsapp.com/Bjbecj0p5lAFIhCxKLoljs?mode=r_t*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-       *👑 THANKS FOR 👑*
-          *👑 CHOOSING 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-          *👑 BILAL-MD 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰*
-   *👑 URDU LANGUAGE 👑*
-    *👑 WHATSAPP BOT 👑*
-*🔰 ▬▭▬ ✦✧✦ ▬▭▬ 🔰`;
+                            let desc = `BILAL-MD WHATSAPP BOT`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "BILAL-MD",
-thumbnailUrl: "https://i.postimg.cc/7LWBgYMq/bilal.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vaj3Xnu17EmtDxTNnQ0G",
+title: "ᴍᴀʟᴠɪɴ-xᴅ",
+thumbnailUrl: "https://i.imgur.com/GVW7aoD.jpeg",
+sourceUrl: "https://whatsapp.com/channel/0029VbA6MSYJUM2TVOzCSb2A",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
